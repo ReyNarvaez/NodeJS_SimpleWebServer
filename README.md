@@ -3,5 +3,5 @@ Simple web server implemented in NodeJS
 
 ## Technologies Used:
 
-* node v8.2.1
-* Bootsrap v4.0
+* node 8.2.1
+* Bootsrap 4.0

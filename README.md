@@ -1,4 +1,6 @@
 # NodeJS_SimpleWebServer
 Simple web server implemented in NodeJS
 
-Test
+## Technologies Used:
+
+* node v8.2.1

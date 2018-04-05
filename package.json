@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_simplewebserver",
+  "version": "1.0.0",
+  "description": "Simple Web Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReyNarvaez/NodeJS_SimpleWebServer.git"
+  },
+  "author": "Rey Narvaez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReyNarvaez/NodeJS_SimpleWebServer/issues"
+  },
+  "homepage": "https://github.com/ReyNarvaez/NodeJS_SimpleWebServer#readme"
+}
